@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "name"    "ESP Mode"
+    "author"  "Lucas"
+    "version" "1.0"
+    "up_date" "2024-07-05"
+    "info"    "Un addon ESP pour voir les joueurs, NPCs et véhicules avec des informations supplémentaires."
+}
